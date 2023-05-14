@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "BalanceInCryptoCurrency" ALTER COLUMN "amount" SET DATA TYPE DOUBLE PRECISION;
+
+-- AlterTable
+ALTER TABLE "BalanceInCurrency" ALTER COLUMN "amount" SET DATA TYPE DOUBLE PRECISION;
